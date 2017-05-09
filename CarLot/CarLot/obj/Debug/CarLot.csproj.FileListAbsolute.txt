@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\CarLot\CarLot\bin\Debug\CarLot.exe.config
+\\mac\home\documents\visual studio 2015\Projects\CarLot\CarLot\bin\Debug\CarLot.exe
+\\mac\home\documents\visual studio 2015\Projects\CarLot\CarLot\bin\Debug\CarLot.pdb
+\\mac\home\documents\visual studio 2015\Projects\CarLot\CarLot\obj\Debug\CarLot.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\CarLot\CarLot\obj\Debug\CarLot.exe
+\\mac\home\documents\visual studio 2015\Projects\CarLot\CarLot\obj\Debug\CarLot.pdb
